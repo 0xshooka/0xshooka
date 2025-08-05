@@ -22,7 +22,7 @@ Here are some ideas to get you started:
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xshooka" />
 </a>
 
----
+<br>
 
 ## My Works and murmur ...
 
@@ -38,7 +38,7 @@ https://arxiv.org/search/cs?searchtype=author&query=Oka,+S
 https://x.com/0xshooka (OK->en, jp)
 <br>
 
----
+
 
 ## My currently topics are ...
 
@@ -48,7 +48,7 @@ https://x.com/0xshooka (OK->en, jp)
 
 - 🏠 I currently live in Osaka, Japan.
 
----
-😌☕️ I accept donations in coffee!
 
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="0xshooka" data-color="#FFDD00" data-emoji="☕"  data-font="Poppins" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+## 😌☕️ I accept donations in coffee!
+
+<a href="https://www.buymeacoffee.com/0xshooka" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
