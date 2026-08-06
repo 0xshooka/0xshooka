@@ -79,9 +79,8 @@ I work on this as an implementer, with an eye toward where the standards should 
 
 ## 📚 &nbsp;Selected work
 
-| | |
-|---|---|
 | **Paper** | *Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark* — [`arXiv:2506.07896`](https://arxiv.org/abs/2506.07896) |
+|---|---|
 | **Book** | 『MCPサーバー開発大全』 — Gijutsu-Hyoronsha, ISBN 978-4-297-15327-4 |
 | **Code** | MCP servers and experiment harnesses — [repositories](https://github.com/0xshooka?tab=repositories) |
 | **Products** | Built under [群青研究所 / Cyanos Lab](https://cyanos-lab.com) — drug-discovery infrastructure, bio-materials, and small tools |
@@ -194,9 +193,8 @@ Plurality Reader は、CC0テキストの構造化版です。主張間の依存
 
 ## 📚 &nbsp;最近の業績
 
-| | |
-|---|---|
 | **Paper** | *Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark* — [`arXiv:2506.07896`](https://arxiv.org/abs/2506.07896) |
+|---|---|
 | **Book** | 『MCPサーバー開発大全』 — 技術評論社, ISBN 978-4-297-15327-4 |
 | **Code** | MCPサーバーと実験的なコード — [repositories](https://github.com/0xshooka?tab=repositories) |
 | **Products** | [群青研究所 / Cyanos Lab](https://cyanos-lab.com) — 創薬支援システム、バイオマテリアル、その他アプリ |
