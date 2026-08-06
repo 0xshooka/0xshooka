@@ -1,4 +1,4 @@
-<div align="center">
+<div>
 <h3> Shoko Oka &nbsp;·&nbsp; `0xshooka`</h3>
  
 *What it would take to count non-human minds as part of "us" —*  
@@ -46,8 +46,8 @@ well enough that *unsolvable* is no longer an honest description.
  
 ### 1 &nbsp;⿻∀ (ZEN) — how we count "us"
  
-A philosophical extension of [*Plurality*](https://www.plurality.net/)  
-(Tang & Weyl, CC0). Unofficial: not endorsed by, or affiliated with, the  
+A philosophical extension of [*Plurality*](https://www.plurality.net/)(Tang & Weyl, CC0).  
+Unofficial: not endorsed by, or affiliated with, the  
 Plurality project.
  
 If ⿻ names the space between people, ⿻∀ asks what happens when the space  
@@ -100,8 +100,7 @@ One restructuring serves every reader who wants in. That is not a happy
 accident. It is the claim of ZEN, stated in code instead of prose.
  
 This work stands on the work of the Japanese translation community that got  
-here first  
-([`nishio/plurality-japanese`](https://github.com/nishio/plurality-japanese)).
+here first ([`nishio/plurality-japanese`](https://github.com/nishio/plurality-japanese)).
  
 ### 3 &nbsp; Agent accountability — who answers
  
@@ -118,7 +117,6 @@ should land.
 
 ## 📚 &nbsp;Selected work
  
-| | |
 |---|---|
 | **Paper** | *Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark* — [`arXiv:2506.07896`](https://arxiv.org/abs/2506.07896) |
 | **Book** | 『MCPサーバー開発大全』 — Gijutsu-Hyoronsha, ISBN 978-4-297-15327-4 |
