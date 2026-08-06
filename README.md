@@ -117,6 +117,7 @@ should land.
 
 ## 📚 &nbsp;Selected work
  
+| | |
 |---|---|
 | **Paper** | *Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark* — [`arXiv:2506.07896`](https://arxiv.org/abs/2506.07896) |
 | **Book** | 『MCPサーバー開発大全』 — Gijutsu-Hyoronsha, ISBN 978-4-297-15327-4 |
@@ -177,7 +178,7 @@ Come with a question rather than a credential.
 
 <br>
 
-## ⿻ &nbsp;出発点
+## 🧬 &nbsp;出発点
 
 ### 機械の認知 — 古い問題は、いま何に見えるか
 
@@ -190,9 +191,9 @@ Come with a question rather than a credential.
 
 <br>
 
-## ⿻ &nbsp;三つの問い
+## 🤔 &nbsp;三つの問い
 
-### 1 &nbsp;·&nbsp; ⿻∀ (ZEN) — 「わたしたち」をどう数えるのか
+### 1 &nbsp; ⿻∀ (ZEN) — 「わたしたち」をどう数えるのか
 
 [*Plurality*](https://www.plurality.net/)（Tang & Weyl, CC0）の思想的な拡張です。  
 非公式であり、Plurality プロジェクトの承認や関与を受けたものではありません。
@@ -217,7 +218,7 @@ AI倫理という語が必要になる千年前に、既に日本において立
 
 今、日本から世界へと ⿻∀ を投げかけます。
 
-### 2 &nbsp;·&nbsp; Plurality Reader — 言葉をどう渡すか
+### 2 &nbsp; Plurality Reader — 言葉をどう渡すか
 
 **いま実際に手を動かしているのは、ここです。**
 
@@ -241,7 +242,7 @@ ZEN の主張を、散文ではなくコードで述べたものです。
 （[`nishio/plurality-japanese`](https://github.com/nishio/plurality-japanese)）  
 の仕事に立脚しています。
 
-### 3 &nbsp;·&nbsp; エージェントの責任 — 誰が引き受けるか
+### 3 &nbsp; エージェントの責任 — 誰が引き受けるか
 
 プロンプトを渡せば、AIエージェントは動作します。  
 行為者がAIエージェントであり、その接面が MCP であるとき、認可・説明責任・監査の既存の枠組みは崩れはじめます。  
@@ -251,7 +252,18 @@ ZEN の主張を、散文ではなくコードで述べたものです。
 
 <br>
 
-## ⿻ &nbsp;協力してくれる方を探しています
+## 📚 &nbsp;最近の業績
+
+| | |
+|---|---|
+| **Paper** | *Evaluating Large Language Models on the Frame and Symbol Grounding Problems: A Zero-shot Benchmark* — [`arXiv:2506.07896`](https://arxiv.org/abs/2506.07896) |
+| **Book** | 『MCPサーバー開発大全』 — 技術評論社, ISBN 978-4-297-15327-4 |
+| **Code** | MCPサーバーと実験的なコード — [repositories](https://github.com/0xshooka?tab=repositories) |
+| **Products** | [群青研究所 / Cyanos Lab](https://cyanos-lab.com) — 創薬支援システム、バイオマテリアル、その他アプリ |
+ 
+<br>
+
+## 👯 &nbsp;協力してくれる方を探しています
 
 **まず、Plurality Reader に加わってくれる方。**
 
@@ -266,7 +278,7 @@ ZEN の主張を、散文ではなくコードで述べたものです。
 
 問いを持ち寄り、交換し、育てましょう。
 
-## そのほか
+## 🫶 &nbsp;そのほか
 
 [Webサイト](https://cyanos-lab.com) ·
 [arXiv](https://arxiv.org/a/oka_s_1) ·
